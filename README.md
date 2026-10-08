@@ -29,23 +29,44 @@ Most of my projects start with:
 
 <div align="center">
 
-<a href="https://github.com/G-grbz/g-File">
-  <img width="48%" src="assets/profile-cards/g-file.svg" alt="g-File" />
-</a>
-
-<a href="https://github.com/G-grbz/Gharmonize">
-  <img width="48%" src="assets/profile-cards/gharmonize.svg" alt="Gharmonize" />
-</a>
-
-<br>
-
-<a href="https://github.com/G-grbz/G-TMCE">
-  <img width="48%" src="assets/profile-cards/g-tmce.svg" alt="G-TMCE" />
-</a>
-
-<a href="https://github.com/G-grbz/G-Hotspot">
-  <img width="48%" src="assets/profile-cards/g-hotspot.svg" alt="G-Hotspot" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/G-grbz/g-File">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-grbz&repo=g-File&cache_seconds=21600&v=20261008-1&bg_color=30,161B22,211B2D&title_color=F5BDE6&text_color=CAD3F5&icon_color=8BD5CA&border_color=363A4F&border_radius=12" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/github/stars/G-grbz/g-File?style=for-the-badge&color=F5BDE6&labelColor=211B2D" />
+      <img src="https://img.shields.io/github/forks/G-grbz/g-File?style=for-the-badge&color=8BD5CA&labelColor=211B2D" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/G-grbz/Gharmonize">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-grbz&repo=Gharmonize&cache_seconds=21600&v=20261008-1&bg_color=30,161B22,1E2030&title_color=C6A0F6&text_color=CAD3F5&icon_color=91D7E3&border_color=363A4F&border_radius=12" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/github/stars/G-grbz/Gharmonize?style=for-the-badge&color=C6A0F6&labelColor=1E2030" />
+      <img src="https://img.shields.io/github/forks/G-grbz/Gharmonize?style=for-the-badge&color=91D7E3&labelColor=1E2030" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/G-grbz/G-TMCE">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-grbz&repo=G-TMCE&cache_seconds=21600&v=20261008-1&bg_color=30,161B22,24273A&title_color=8AADF4&text_color=CAD3F5&icon_color=F5A97F&border_color=363A4F&border_radius=12" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/github/stars/G-grbz/G-TMCE?style=for-the-badge&color=8AADF4&labelColor=24273A" />
+      <img src="https://img.shields.io/github/forks/G-grbz/G-TMCE?style=for-the-badge&color=F5A97F&labelColor=24273A" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/G-grbz/G-Hotspot">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-grbz&repo=G-Hotspot&cache_seconds=21600&v=20261008-1&bg_color=30,161B22,211B2D&title_color=F5BDE6&text_color=CAD3F5&icon_color=8BD5CA&border_color=363A4F&border_radius=12" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/github/stars/G-grbz/G-Hotspot?style=for-the-badge&color=F5BDE6&labelColor=211B2D" />
+      <img src="https://img.shields.io/github/forks/G-grbz/G-Hotspot?style=for-the-badge&color=8BD5CA&labelColor=211B2D" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
