@@ -27,27 +27,44 @@ Most of my projects start with:
 
 ## ✨ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/G-grbz/g-File">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-grbz&repo=g-File&cache_seconds=21600&v=20261007-1&bg_color=30,161B22,211B2D&title_color=F5BDE6&text_color=CAD3F5&icon_color=8BD5CA&border_color=363A4F&border_radius=12" />
-</a>
-
-<a href="https://github.com/G-grbz/Gharmonize">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-grbz&repo=Gharmonize&cache_seconds=21600&bg_color=30,161B22,1E2030&title_color=C6A0F6&text_color=CAD3F5&icon_color=91D7E3&border_color=363A4F&border_radius=12" />
-</a>
-
-<br>
-
-<a href="https://github.com/G-grbz/G-TMCE">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-grbz&repo=G-TMCE&cache_seconds=21600&bg_color=30,161B22,24273A&title_color=8AADF4&text_color=CAD3F5&icon_color=F5A97F&border_color=363A4F&border_radius=12" />
-</a>
-
-<a href="https://github.com/G-grbz/G-Hotspot">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-grbz&repo=G-Hotspot&cache_seconds=21600&bg_color=30,161B22,211B2D&title_color=F5BDE6&text_color=CAD3F5&icon_color=8BD5CA&border_color=363A4F&border_radius=12" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/G-grbz/g-File">🗂️ g-File</a></h3>
+      <p>A modern KDE-style Qt/QML file manager for Linux with media previews, cloud integration, DLNA support, built-in players, and advanced file management tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/QML-Qt%206-41CD52?logo=qt&logoColor=white" alt="QML / Qt 6">
+        <img src="https://img.shields.io/badge/C++-KDE%20Frameworks-00599C?logo=cplusplus&logoColor=white" alt="C++ / KDE Frameworks">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/G-grbz/Gharmonize">🎵 Gharmonize</a></h3>
+      <p>All-in-one media downloader and converter with Web UI, desktop builds, yt-dlp integration, and advanced FFmpeg automation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-Node.js-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript / Node.js">
+        <img src="https://img.shields.io/badge/FFmpeg-Media-007808?logo=ffmpeg&logoColor=white" alt="FFmpeg">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/G-grbz/G-TMCE">🎬 G-TMCE</a></h3>
+      <p>Cross-platform PySide6/Qt 6 toolkit for MKV remuxing, extraction, TMDB metadata, audio sync, subtitles, and local AI translation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-PySide6-3776AB?logo=python&logoColor=white" alt="Python / PySide6">
+        <img src="https://img.shields.io/badge/MKV-Media%20Tools-7B68EE" alt="MKV media tools">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/G-grbz/G-Hotspot">📡 G-Hotspot</a></h3>
+      <p>Captive portal software for OPNsense with RFC 3161 timestamping support and seven-step verification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-Web-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/OPNsense-Captive%20Portal-D94F00" alt="OPNsense captive portal">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
