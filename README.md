@@ -32,12 +32,12 @@ Most of my projects start with:
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/G-grbz/g-File">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-grbz&repo=g-File&cache_seconds=21600&v=20261008-1&bg_color=30,161B22,211B2D&title_color=F5BDE6&text_color=CAD3F5&icon_color=8BD5CA&border_color=363A4F&border_radius=12" />
+      <a href="https://github.com/G-grbz/Lurviko">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-grbz&repo=Lurviko&cache_seconds=21600&v=20261008-1&bg_color=30,161B22,211B2D&title_color=F5BDE6&text_color=CAD3F5&icon_color=8BD5CA&border_color=363A4F&border_radius=12" />
       </a>
       <br>
-      <img src="https://img.shields.io/github/stars/G-grbz/g-File?style=for-the-badge&color=F5BDE6&labelColor=211B2D" />
-      <img src="https://img.shields.io/github/forks/G-grbz/g-File?style=for-the-badge&color=8BD5CA&labelColor=211B2D" />
+      <img src="https://img.shields.io/github/stars/G-grbz/Lurviko?style=for-the-badge&color=F5BDE6&labelColor=211B2D" />
+      <img src="https://img.shields.io/github/forks/G-grbz/Lurviko?style=for-the-badge&color=8BD5CA&labelColor=211B2D" />
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/G-grbz/Gharmonize">
