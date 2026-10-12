@@ -2,14 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:FBC2EB&height=230&section=header&text=G-grbz&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Linux%20%7C%20Desktop%20Apps%20%7C%20Media%20Tools%20%7C%20Open%20Source&descAlignY=59&descSize=18" />
 
-### 👋 Hi there
-
-I build desktop applications, media tools and Linux utilities.
-
-Most of my projects start with:
-
-**“There should be a better way to do this.”**
-
 <br>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
