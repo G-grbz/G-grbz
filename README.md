@@ -28,16 +28,16 @@
         <img width="100%" src="https://raw.githubusercontent.com/G-grbz/G-grbz/main/assets/repo-cards/Lurviko.svg" />
       </a>
       <br>
-      <img src="https://img.shields.io/github/stars/G-grbz/Lurviko?style=for-the-badge&color=F5BDE6&labelColor=211B2D" />
-      <img src="https://img.shields.io/github/forks/G-grbz/Lurviko?style=for-the-badge&color=8BD5CA&labelColor=211B2D" />
+      <img height="28" src="https://img.shields.io/github/stars/G-grbz/Lurviko?style=flat&color=F5BDE6&labelColor=211B2D" />
+      <img height="28" src="https://img.shields.io/github/forks/G-grbz/Lurviko?style=flat&color=8BD5CA&labelColor=211B2D" />
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/G-grbz/Gharmonize">
         <img width="100%" src="https://raw.githubusercontent.com/G-grbz/G-grbz/main/assets/repo-cards/Gharmonize.svg" />
       </a>
       <br>
-      <img src="https://img.shields.io/github/stars/G-grbz/Gharmonize?style=for-the-badge&color=C6A0F6&labelColor=1E2030" />
-      <img src="https://img.shields.io/github/forks/G-grbz/Gharmonize?style=for-the-badge&color=91D7E3&labelColor=1E2030" />
+      <img height="28" src="https://img.shields.io/github/stars/G-grbz/Gharmonize?style=flat&color=C6A0F6&labelColor=1E2030" />
+      <img height="28" src="https://img.shields.io/github/forks/G-grbz/Gharmonize?style=flat&color=91D7E3&labelColor=1E2030" />
     </td>
   </tr>
   <tr>
@@ -46,16 +46,16 @@
         <img width="100%" src="https://raw.githubusercontent.com/G-grbz/G-grbz/main/assets/repo-cards/G-TMCE.svg" />
       </a>
       <br>
-      <img src="https://img.shields.io/github/stars/G-grbz/G-TMCE?style=for-the-badge&color=8AADF4&labelColor=24273A" />
-      <img src="https://img.shields.io/github/forks/G-grbz/G-TMCE?style=for-the-badge&color=F5A97F&labelColor=24273A" />
+      <img height="28" src="https://img.shields.io/github/stars/G-grbz/G-TMCE?style=flat&color=8AADF4&labelColor=24273A" />
+      <img height="28" src="https://img.shields.io/github/forks/G-grbz/G-TMCE?style=flat&color=F5A97F&labelColor=24273A" />
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/G-grbz/G-Hotspot">
         <img width="100%" src="https://raw.githubusercontent.com/G-grbz/G-grbz/main/assets/repo-cards/G-Hotspot.svg" />
       </a>
       <br>
-      <img src="https://img.shields.io/github/stars/G-grbz/G-Hotspot?style=for-the-badge&color=F5BDE6&labelColor=211B2D" />
-      <img src="https://img.shields.io/github/forks/G-grbz/G-Hotspot?style=for-the-badge&color=8BD5CA&labelColor=211B2D" />
+      <img height="28" src="https://img.shields.io/github/stars/G-grbz/G-Hotspot?style=flat&color=F5BDE6&labelColor=211B2D" />
+      <img height="28" src="https://img.shields.io/github/forks/G-grbz/G-Hotspot?style=flat&color=8BD5CA&labelColor=211B2D" />
     </td>
   </tr>
 </table>
